@@ -2,11 +2,11 @@
 
 ## I'm a Software Developer, and Student! 🧑‍🎓
 
-- I’m currently working with OpenGL API 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🎯 Currently working with OpenGL API! 
+- 🎓 Engineer!
+- 🎮 Desktop Gamer!
+- ⚽ Football enthusiast!
+- 🎵 Music!
 
 ### Connect with me:
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 📕 Books Currently Reading
+### 📘 Books Currently Reading
 <!-- BOOK-LIST:START -->
 - OpenGL Programming Guide: The Official Guide to Learning OpenGL - Mason Woo, Jackie Neider, Tom Davis, Dave Shreiner
 - OpenGL SuperBible: Comprehensive Tutorial and Reference - Graham Sellers, Nicholas Haemel, RICHARD S.WRIGHT JR
