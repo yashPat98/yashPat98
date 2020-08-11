@@ -17,13 +17,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][none]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][none]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][none]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][none]
-[<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/logos:c.svg" />][none]
-[<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/logos:c-plusplus.svg" />][none]
-[<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/logos:visual-studio.svg" />][none]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/logos:c.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/logos:c-plusplus.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://api.iconify.design/logos:visual-studio.svg" />
 <br />
 <br />
 
@@ -39,5 +39,4 @@
 
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[none]: ""
 
