@@ -37,6 +37,6 @@
 <!-- BOOK-LIST:END -->
 
 
-[youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[youtube]: https://www.youtube.com/
+[linkedin]: https://linkedin.com/
 
