@@ -1,8 +1,8 @@
 ### Hi there, I'm Yash Patel 👋
 
 ## I'm a Software Developer, and Student! 🧑‍🎓
-- 🔭 I’m currently working with OpenGL API 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+- I’m currently working with OpenGL API 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
