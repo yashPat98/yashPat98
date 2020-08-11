@@ -38,5 +38,5 @@
 
 
 [youtube]: https://www.youtube.com/
-[linkedin]: https://linkedin.com/
+[linkedin]: https://www.linkedin.com/in/yash-patel-49651a1b4/
 
