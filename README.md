@@ -1,3 +1,5 @@
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yashPat98&repo=github-readme-stats&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there, I'm Yash Patel 👋
 
 ## I'm a Software Developer, and Student! 🧑‍🎓
