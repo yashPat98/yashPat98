@@ -38,7 +38,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yashPat98&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=yashPat98&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://www.youtube.com/
 [linkedin]: https://www.linkedin.com/in/yash-patel-49651a1b4/
