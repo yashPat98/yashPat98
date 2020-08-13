@@ -37,6 +37,7 @@
 <!-- BOOK-LIST:END -->
 
 ---
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yashPat98)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://www.youtube.com/
