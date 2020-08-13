@@ -36,6 +36,8 @@
 - Advanced Graphics Programming Using OpenGL - Tom McReynolds, David Blythe
 <!-- BOOK-LIST:END -->
 
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yashPat98)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://www.youtube.com/
 [linkedin]: https://www.linkedin.com/in/yash-patel-49651a1b4/
